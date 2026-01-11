@@ -1,10 +1,9 @@
-<h1 align="center">Hi everyone, I'm Artem 👋</h1>
+<h1 align="center">👋 Hi, I'm Artem Pankov</h1>
 
 <h3 align="center">
-  <br>🏆 Certified Python Backend Developer</br>
-  <br>🧑🏻‍💻 Studying IT</br>
-  <br>🤖 Sharing Tech Knowledge</br>
-  <br>📈 Developing In Public & Helping Others Develop</br>
+  <br>💻 | Sharing Clear IT, AI, Tech & Programming Explanations</br>
+  <br>💡 | Useful Skills, Tutorials & Insights</br>
+  <br>🚀 | Join Me: linktr.ee/ArtemPankov</br>
 </h3>
 
 ---
@@ -44,7 +43,7 @@
 
 ---
 
-## 👇 Contact Me
+## Artem Pankov Social Media Links:
 
 🌍 Website: [ArtemPankov.com](https://artempankov.com)
 
@@ -81,13 +80,6 @@
 📌 Pinterest: [](https://pinterest.com/)
 
 📘 Facebook: [](https://facebook.com/)
-
----
-
-<h3 align="center">
-  <br>Thanks For Visiting) 🤗 </br>
-  <br>Let's Create The Future Together! 🛸</br>
-</h3>
 
 ---
 <p align="center">

@@ -4,7 +4,7 @@
   <br>🧑‍💻 | Python Backend Developer Software Engineer</br>
   <br>💻 | Sharing Clear IT, AI, Tech & Programming Explanations</br>
   <br>💡 | Useful Skills, Tutorials & Insights</br>
-  <br>🚀 | Join Me: https:linktr.ee/ArtemPankov</br>
+  <br>🚀 | Join Me: https://www.linktr.ee/ArtemPankov</br>
 </h3>
 
 ---

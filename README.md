@@ -1,6 +1,6 @@
-<h1 align="center">👋 Hi, I'm Artem Pankov</h1>
+<h1>👋 Hi, I'm Artem Pankov</h1>
 
-<h3 align="center">
+<h3>
   <br>🧑‍💻 | Python Backend Developer Software Engineer</br>
   <br>💻 | Sharing Clear IT, AI, Tech & Programming Explanations</br>
   <br>💡 | Useful Skills, Tutorials & Insights</br>

@@ -117,79 +117,77 @@
 
 ## Artem Pankov Social Media Links:
 
-## 🌐 Connect with me
+▶️ YouTube by @ArtemPankovDev  
+https://www.youtube.com/@ArtemPankovDev
 
-▶️ **YouTube**  
-https://www.youtube.com/@ArtemPankovDev  
+📘 Facebook  
+https://www.facebook.com/share/1864LW3n3r/
 
-📘 **Facebook**  
-https://www.facebook.com/share/1864LW3n3r/  
+🎵 TikTok by @artempankovdev  
+https://www.tiktok.com/@artempankovdev
 
-🎵 **TikTok**  
-https://www.tiktok.com/@artempankovdev  
+📸 Instagram by @artempankovdev  
+https://www.instagram.com/artempankovdev/
 
-📸 **Instagram**  
-https://www.instagram.com/artempankovdev/  
+👻 Snapchat by @artempankovdev  
+https://www.snapchat.com/@artempankovdev
 
-👻 **Snapchat**  
-https://www.snapchat.com/@artempankovdev  
+🐦 𝕏 / Twitter by @ArtemPankovDev  
+https://x.com/ArtemPankovDev
 
-🐦 **𝕏 / Twitter**  
-https://x.com/ArtemPankovDev  
+📹 Rumble by @ArtemPankov  
+https://rumble.com/user/ArtemPankov
 
-📹 **Rumble**  
-https://rumble.com/user/ArtemPankov  
+📌 Pinterest by @ArtemPankovDev  
+https://www.pinterest.com/ArtemPankovDev/
 
-📌 **Pinterest**  
-https://www.pinterest.com/ArtemPankovDev/  
+👽 Reddit by u/ArtemPankov  
+https://www.reddit.com/user/ArtemPankov/
 
-👽 **Reddit**  
-https://www.reddit.com/user/ArtemPankov/  
+🎮 Twitch by @artempankovdev  
+https://www.twitch.tv/artempankovdev
 
-🎮 **Twitch**  
-https://www.twitch.tv/artempankovdev  
+💼 LinkedIn  
+https://www.linkedin.com/in/artem-pankov-dev
 
-💼 **LinkedIn**  
-https://www.linkedin.com/in/artem-pankov-dev  
+📺 Dailymotion by @ArtemPankov  
+https://www.dailymotion.com/ArtemPankov
 
-📺 **Dailymotion**  
-https://www.dailymotion.com/ArtemPankov  
+🟢 Kick by @artempankov  
+https://kick.com/artempankov
 
-🟢 **Kick**  
-https://kick.com/artempankov  
+🎥 Vimeo by @artempankov  
+https://vimeo.com/artempankov
 
-🎥 **Vimeo**  
-https://vimeo.com/artempankov  
+❤️ Likee by @ArtemPankov  
+Likee ID: @ArtemPankov
 
-❤️ **Likee**  
-Likee ID: @ArtemPankov  
+👏 Clapper by @ArtemPankov  
+https://www.clapperapp.com/ArtemPankov
 
-👏 **Clapper**  
-https://www.clapperapp.com/ArtemPankov  
+✈️ Telegram by @ArtemPankovDev  
+https://t.me/ArtemPankovDev
 
-✈️ **Telegram**  
-https://t.me/ArtemPankovDev  
+✍️ Medium by @ArtemPankov  
+https://medium.com/@ArtemPankov
 
-✍️ **Medium**  
-https://medium.com/@ArtemPankov  
+🧵 Threads by @artempankovdev  
+https://www.threads.com/@artempankovdev
 
-🧵 **Threads**  
-https://www.threads.com/@artempankovdev  
+🎤 Discord  
+https://discord.gg/A2gU5UUH
 
-🎤 **Discord**  
-https://discord.gg/A2gU5UUH  
+📰 Substack by @artempankov  
+https://substack.com/@artempankov
 
-📰 **Substack**  
-https://substack.com/@artempankov  
+🐙 GitHub by @ArtemPankovDev  
+https://github.com/ArtemPankovDev
 
-🐙 **GitHub**  
-https://github.com/ArtemPankovDev  
+🌐 Website — ArtemPankov.com (in development)  
+https://artempankov.com
 
-🌐 **Website** *(in development)*  
-https://artempankov.com  
-
-📧 **Email**  
-artem.pankov.dev@gmail.com
+📧 Email — Artem.Pankov.Dev@gmail.com  
+mailto:artem.pankov.dev@gmail.com
 
 ---
 <p align="center">
